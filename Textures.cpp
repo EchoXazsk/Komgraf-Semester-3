@@ -7,12 +7,15 @@
 #include <GL/freeglut.h>
 #define STB_IMAGE_IMPLEMENTATION
 
-//MUHAMMAD ANDHIKA ADHISATYA
-//5221600011
-//ALFIAN MAJIDDAN NUR
-//5221600021
-
 #include "stb_image.h"
+
+/*
+Kelompok Komgraf
+Satrio Septiaji Pratama
+5221600016
+Muhammad Firdaus Alfayudha
+5221600018
+*/
 
 
 static float X = 0.0;
